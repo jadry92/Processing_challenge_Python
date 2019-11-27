@@ -6,12 +6,13 @@ class Julia():
     #metho to draw the rectangles
     def show(self):
         for i in range(0,len(self.pos)):
-            col =sqrt( (self.pos[i].x*self.pos[i].x) + (self.pos[i].y*self.pos[i].y))
+            col = sqrt( (self.pos[i].x*self.pos[i].x) + (self.pos[i].y*self.pos[i].y))
             col = map(col, 0, 2, 0, 225)
-            fill(col,col+20,col-20)
-            rect(self.pos[i].x,self.pos[i].y,1,1)
-
-       
+            fill(col,col+10,col+30)
+            #stroke(col,col+10,col+20)
+            #rect(self.pos[i].x,self.pos[i].y,1,1)
+            noSmooth()
+            point(self.pos[i].x,self.pos[i].y)
         
 
     # metho to generate the poins can be in the fractal
