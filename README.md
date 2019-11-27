@@ -7,6 +7,7 @@ This is an implementation of _Julia Fractal_ in processing 3.
 
 ### [Menger Sponge Fractal](https://github.com/jadry92/Processing_challenge_Python/tree/master/Menger_Sponge_Fractal "Menger_Sponge_Fractal"):
 
+This is an implamentation of _Menger Sponge Fractal_ in  processing 3.
 
 ### [Purple Rain](https://github.com/jadry92/Processing_challenge_Python/tree/master/purple_rain "purple_rain")
 
@@ -15,5 +16,5 @@ This is an implementation of _Julia Fractal_ in processing 3.
 ### [star_war_animation](https://github.com/jadry92/Processing_challenge_Python/tree/master/star_war_animation "star_war_animation")
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTg3MTg1LC02NDE2NzA4MDZdfQ==
+eyJoaXN0b3J5IjpbMTUxOTAxMjUwNSwtNjQxNjcwODA2XX0=
 -->
