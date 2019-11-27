@@ -11,10 +11,13 @@ This is an implamentation of _Menger Sponge Fractal_ in  processing 3.
 
 ### [Purple Rain](https://github.com/jadry92/Processing_challenge_Python/tree/master/purple_rain "purple_rain")
 
+This is an implamentation of _Menger Sponge Fractal_ in  processing 3.
+
 ### [snake_game](https://github.com/jadry92/Processing_challenge_Python/tree/master/snake_game "snake_game")
 
 ### [star_war_animation](https://github.com/jadry92/Processing_challenge_Python/tree/master/star_war_animation "star_war_animation")
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxOTAxMjUwNSwtNjQxNjcwODA2XX0=
+eyJoaXN0b3J5IjpbLTExMjk0MDkzMTMsMTUxOTAxMjUwNSwtNj
+QxNjcwODA2XX0=
 -->
