@@ -15,7 +15,7 @@ This is an implamentation of _Menger Sponge Fractal_ in  processing 3.
 
 This is an implamentation of _Purple Rain_ in  processing 3.
 
-![](## [Processing_challenge_Python](https://github.com/jadry92/Processing_challenge_Python/img/## **purple_rain.gif)
+![](## [Processing_challenge_Python](https://github.com/jadry92/Processing_challenge_Python/img/purple_rain.gif)
 
 [Find file](https://github.com/jadry92/Processing_challenge_Python/find/master)Copy path)
 ### [snake_game](https://github.com/jadry92/Processing_challenge_Python/tree/master/snake_game "snake_game")
@@ -26,6 +26,6 @@ This is an implamentation of _Snake Game_ in  processing 3.
 
 This is an implamentation of _Star War Animation_ in  processing 3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzE5ODEyOCwtMTc1NjI1NTQ4NCwxND
-c0NjU4NTkwLDE1MTkwMTI1MDUsLTY0MTY3MDgwNl19
+eyJoaXN0b3J5IjpbLTE5MTYzNzM0MDIsLTE3NTYyNTU0ODQsMT
+Q3NDY1ODU5MCwxNTE5MDEyNTA1LC02NDE2NzA4MDZdfQ==
 -->
