@@ -26,8 +26,10 @@ This is an implamentation of _Snake Game_ in  processing 3.
 ### [star_war_animation](https://github.com/jadry92/Processing_challenge_Python/tree/master/star_war_animation "star_war_animation")
 
 This is an implamentation of _Star War Animation_ in  processing 3.
+
+![star war animation](https://github.com/jadry92/Processing_challenge_Python/blob/master/img/star_wars.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxNjYzMTE4LDM4MzI2NDI3MSwtMTc1Nj
-I1NTQ4NCwxNDc0NjU4NTkwLDE1MTkwMTI1MDUsLTY0MTY3MDgw
-Nl19
+eyJoaXN0b3J5IjpbLTEzMTgzMDIyMjAsMzgzMjY0MjcxLC0xNz
+U2MjU1NDg0LDE0NzQ2NTg1OTAsMTUxOTAxMjUwNSwtNjQxNjcw
+ODA2XX0=
 -->
