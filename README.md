@@ -5,6 +5,7 @@ This repositori has implemetations of coding challenges from [The Coding Train](
 
 This is an implementation of _Julia Fractal_ in processing 3.
 
+![julia fractal](https://github.com/jadry92/Processing_challenge_Python/blob/master/img/julia_fractal.png)
 
 ### [Menger Sponge Fractal](https://github.com/jadry92/Processing_challenge_Python/tree/master/Menger_Sponge_Fractal "Menger_Sponge_Fractal"):
 
@@ -30,7 +31,7 @@ This is an implamentation of _Star War Animation_ in  processing 3.
 
 ![star war animation](https://github.com/jadry92/Processing_challenge_Python/blob/master/img/star_wars.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzI0NTgwNDIsLTEzMTgzMDIyMjAsMz
+eyJoaXN0b3J5IjpbLTEzOTUxODEwNTgsLTEzMTgzMDIyMjAsMz
 gzMjY0MjcxLC0xNzU2MjU1NDg0LDE0NzQ2NTg1OTAsMTUxOTAx
 MjUwNSwtNjQxNjcwODA2XX0=
 -->
