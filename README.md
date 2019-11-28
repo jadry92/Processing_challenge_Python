@@ -21,10 +21,13 @@ This is an implamentation of _Purple Rain_ in  processing 3.
 
 This is an implamentation of _Snake Game_ in  processing 3.
 
+![snake game](https://github.com/jadry92/Processing_challenge_Python/blob/master/img/snake_game.gif)
+
 ### [star_war_animation](https://github.com/jadry92/Processing_challenge_Python/tree/master/star_war_animation "star_war_animation")
 
 This is an implamentation of _Star War Animation_ in  processing 3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzMjY0MjcxLC0xNzU2MjU1NDg0LDE0Nz
-Q2NTg1OTAsMTUxOTAxMjUwNSwtNjQxNjcwODA2XX0=
+eyJoaXN0b3J5IjpbOTAxNjYzMTE4LDM4MzI2NDI3MSwtMTc1Nj
+I1NTQ4NCwxNDc0NjU4NTkwLDE1MTkwMTI1MDUsLTY0MTY3MDgw
+Nl19
 -->
