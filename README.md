@@ -9,7 +9,7 @@ This is an implementation of _Julia Fractal_ in processing 3.
 
 This is an implamentation of _Menger Sponge Fractal_ in  processing 3.
 
-
+![menger sponge fractal](https://github.com/jadry92/Processing_challenge_Python/blob/master/img/merge_sponge_fractal.gif)
 
 ### [Purple Rain](https://github.com/jadry92/Processing_challenge_Python/tree/master/purple_rain "purple_rain")
 
@@ -23,6 +23,6 @@ This is an implamentation of _Snake Game_ in  processing 3.
 
 This is an implamentation of _Star War Animation_ in  processing 3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDQ1NTg3NCwxNDc0NjU4NTkwLDE1MT
-kwMTI1MDUsLTY0MTY3MDgwNl19
+eyJoaXN0b3J5IjpbLTE3NTYyNTU0ODQsMTQ3NDY1ODU5MCwxNT
+E5MDEyNTA1LC02NDE2NzA4MDZdfQ==
 -->
