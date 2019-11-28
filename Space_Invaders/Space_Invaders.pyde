@@ -1,7 +1,7 @@
 from Ship import Ship
 from Flower import Flower
 from Drop import Drop
-
+record = False
 D = []
 
 def setup():
@@ -34,11 +34,16 @@ def draw():
     for bols in D:
         if bols.Del_st == True:
             D.remove(bols)
-    
+            
+    if record :
+        saveFrame("/Users/johan/gif_img/frame-######.png")    
 ################################################    
 def keyPressed():
+    global record
     if keyCode == UP:
         print('nothing')
+    elif key == 'r' or key == 'R':
+        record = not record
     elif key == ' ':
         tm = Drop(S.x,height-60,8)
         D.append(tm)

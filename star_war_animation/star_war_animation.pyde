@@ -1,5 +1,6 @@
 from star import Star
 n=600
+record = False
 star =[Star() for i in range(0,n)]
 
 def setup():
@@ -7,6 +8,10 @@ def setup():
     for i in range(0,len(star)):
         star[i].initiation()
 
+def keyPressed():
+    global record
+    if key == 'r' or key == 'R':
+        record = not record
 
 def draw():
     background(0)
@@ -15,4 +20,6 @@ def draw():
         star[i].update()
         star[i].show()
     
+    if record :
+        saveFrame("/Users/johan/gif_img/frame-######.png")
         

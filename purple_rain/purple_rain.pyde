@@ -1,7 +1,7 @@
 #colors 
 #purple = (138, 43, 226) 
 from Drop import Drop
-
+record = False
 Rain = []
 def setup():
     global Rain
@@ -11,6 +11,11 @@ def setup():
         Rain[i].star()
     print(Rain)
 
+def keyPressed():
+    global record
+    if key == 'r' or key == 'R':
+        record = not record
+
 def draw():
     global Rain
     background(230, 230, 250) 
@@ -18,3 +23,6 @@ def draw():
         #print(Rain[i].x)
         Rain[i].show()
         Rain[i].fall()
+    
+    if record :
+         saveFrame("/Users/johan/gif_img/frame-######.png")

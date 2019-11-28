@@ -24,7 +24,6 @@ def keyPressed():
     if key == 'r' or key == 'R':
         record = not record
 
-
 def draw():
     global angle, sponge, record
     background(50)
@@ -41,4 +40,4 @@ def draw():
         #translate(width/2,height/2)
     
     if record :
-         saveFrame("/Users/johan/gif_img/frame-######.png")
+        saveFrame("/Users/johan/gif_img/frame-######.png")
