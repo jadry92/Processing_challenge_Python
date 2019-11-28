@@ -1,23 +1,24 @@
 from Fractal_class import Julia,Julia_or3
-
-ite = 90
+record = False
+ite = 10
 j = Julia(ite)
 def setup():
     global ite, j
-    size(600,600)
+    size(400,400)
     j.generate()
     
-        
+def keyPressed():
+    global record
+    if key == 'r' or key == 'R':
+        record = not record
+
 def draw():
-    global ite, j
+    global ite, j, record
     background(255)
     translate(width/2,height/2)
     #print(j.ite)
     j.show()
-    #j.ite += 1
-    #if j.ite > 20:
-    #j.ite = 1
-    #j.generate()
-    #fill(0)
+    if record:
+        saveFrame("/Users/johan/gif_img/frame-######.png")
 
             
