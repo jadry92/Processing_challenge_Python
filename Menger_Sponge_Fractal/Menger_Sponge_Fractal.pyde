@@ -1,5 +1,5 @@
 from Box import Box
-
+record = False
 angle=0
  
 sponge = []
@@ -18,9 +18,15 @@ def mousePressed():
         newBoxes = i.generate()
         next.extend(newBoxes)     
     sponge = next
-     
+    
+def keyPressed():
+    global record
+    if key == 'r' or key == 'R':
+        record = not record
+
+
 def draw():
-    global angle, sponge
+    global angle, sponge, record
     background(50)
     stroke(255)
     noFill()
@@ -33,3 +39,6 @@ def draw():
     for i in sponge:
         i.show()
         #translate(width/2,height/2)
+    
+    if record :
+         saveFrame("/Users/johan/gif_img/frame-######.png")
